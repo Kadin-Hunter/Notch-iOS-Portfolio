@@ -12,6 +12,8 @@ Notch turns simple counting into a more tactile, personal experience. The app su
 
 The app explores five distinct interface concepts:
 
+![Design Prototype](Design-Prototype.png)
+
 - **Luminous Minimal**: quiet, airy, goal-focused counting with a soft circular tap target.
 - **Liquid Glass**: dark, neon, high-contrast interaction with glowing numeric feedback.
 - **Studio Ledger**: a dense list-and-detail interface for tracking multiple counters quickly.
@@ -51,4 +53,3 @@ Employers or collaborators who need to review implementation details can request
 ## Status
 
 Private beta / App Store preparation.
-
