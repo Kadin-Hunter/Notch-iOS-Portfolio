@@ -37,7 +37,7 @@ I designed and built the iOS app experience end to end, including:
 ## Technical Highlights
 
 - Native SwiftUI interface
-- iOS 17 target
+- iOS 26 target
 - Local persistence with `UserDefaults`
 - StoreKit product configuration for unlock testing
 - Custom theme system with reusable typography, color, and layout primitives
